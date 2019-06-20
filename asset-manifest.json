@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MemoryBlocksRecall/static/css/main.2c9de409.chunk.css",
+    "main.js": "/MemoryBlocksRecall/static/js/main.b4e59e7a.chunk.js",
+    "main.js.map": "/MemoryBlocksRecall/static/js/main.b4e59e7a.chunk.js.map",
+    "runtime~main.js": "/MemoryBlocksRecall/static/js/runtime~main.83e93243.js",
+    "runtime~main.js.map": "/MemoryBlocksRecall/static/js/runtime~main.83e93243.js.map",
+    "static/js/2.44949046.chunk.js": "/MemoryBlocksRecall/static/js/2.44949046.chunk.js",
+    "static/js/2.44949046.chunk.js.map": "/MemoryBlocksRecall/static/js/2.44949046.chunk.js.map",
+    "index.html": "/MemoryBlocksRecall/index.html",
+    "precache-manifest.120b4b25d54e947a0e708d620e504120.js": "/MemoryBlocksRecall/precache-manifest.120b4b25d54e947a0e708d620e504120.js",
+    "service-worker.js": "/MemoryBlocksRecall/service-worker.js",
+    "static/css/main.2c9de409.chunk.css.map": "/MemoryBlocksRecall/static/css/main.2c9de409.chunk.css.map"
+  }
+}
